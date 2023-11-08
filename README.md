@@ -24,10 +24,8 @@ Here are some ideas to get you started:
 
 ## 📊 Github Stats
 
-<!--
-eg. to hide border use &hide_border=true
 <img height="200px" src="https://github-readme-stats-sigma-five.vercel.app/api?username=mri1662&show_icons=true&theme=react&hide_border=true">
--->
+
 
 <p>
    <img height="200px" src="https://github-readme-stats-sigma-five.vercel.app/api?username=mri1662&show_icons=true&theme=react&hide_border=true">
