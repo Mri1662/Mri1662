@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 # Hi there, I'm Mansi 👋 
 
 <div id="header" align="center">
-  <img src="https://giphy.com/stickers/iykra-pc-mac-laptop-WFZvB7VIXBgiz3oDXE" width="100"/>
+  <img src="https://media.giphy.com/media/WFZvB7VIXBgiz3oDXE/giphy.gif" width="100"/>
 </div>
 
 <p align="left">
