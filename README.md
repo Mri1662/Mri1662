@@ -25,9 +25,6 @@ Here are some ideas to get you started:
 
 ## 📊 Github Stats
 
-<img height="200px" src="https://github-readme-stats-sigma-five.vercel.app/api?username=mri1662&show_icons=true&theme=react&hide_border=true">
-
-
 <p>
    <img height="200px" src="https://github-readme-stats-sigma-five.vercel.app/api?username=mri1662&show_icons=true&theme=react&hide_border=true">
    <img height="200px" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=mri1662&langs_count=6&theme=react&layout=compact&hide_border=true" alt="overall Top Langs " />
